@@ -1,0 +1,16 @@
+table{
+    border-collapse: collapse;
+    background-color: bisque;
+
+}
+#tr-pading{
+    text-align: center;
+    width: 30px;
+}
+td, th{
+    border: 1px lightgray solid;
+    padding: 0 10px ;
+    width: 100px;
+    height: 30px;
+   
+}
